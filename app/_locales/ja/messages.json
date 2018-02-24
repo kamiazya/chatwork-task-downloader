@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Chatwork Task Downloader",
+    "description": "アプリの名前"
+  },
+  "appDescription": {
+    "message": "Chatworkのタスクをtxtファイルとしてダウンロードできるボタンを付けます。",
+    "description": "アプリの説明"
+  }
+}
