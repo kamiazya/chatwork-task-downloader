@@ -15,7 +15,7 @@
     "del": "^2.2.0",
     "gulp": "^3.9.1",
     "gulp-babel": "^7.0.1",
-    "gulp-cache": "^0.4.3",
+    "gulp-cache": "^1.1.1",
     "gulp-chrome-manifest": "0.0.13",
     "gulp-clean-css": "^2.0.3",
     "gulp-eslint": "^5.0.0",
